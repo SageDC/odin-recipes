@@ -1,0 +1,1 @@
+This repository contains the first project that the creators of The Odin Project has us complete. This project intents to create a simple HTML only recipe website. We will use all HTML knowledge that we have learned so far to implement this project.
